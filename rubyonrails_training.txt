@@ -1,0 +1,41 @@
+
+Introduction to Ruby on Rails
+ - why should I choose ruby on rails
+
+Git
+ - what is git?
+ - Version Control System
+ - git repositiory
+ - creating git repository
+ - git commit
+ - commit message format
+ - git push
+ - git pull
+ - Branching, Forking in Git
+ - git fetch
+ - Pull Request
+ - Pull Request Reviews
+
+Exploring Ruby programming Language
+ - Ruby basics
+ - datatypes in ruby
+ - Control instructions
+ - Object Orientation
+   - Encapsulation
+   - Inheritance
+   - Multiple Inheritance
+   - Polymorphism
+ - Array
+ - Hash
+ - File I/O
+
+
+HTML
+
+CSS
+
+Javascript
+
+Rails
+
+
