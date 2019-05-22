@@ -19,12 +19,49 @@ Git
 Exploring Ruby programming Language
  - Ruby basics
  - datatypes in ruby
+ - operators
+  * arithmatic
+    +, -, *, /, %, **
+  * comparision
+    => ==, !=, <, >, <=, >=, <=>, ===, eql?, equal?
+  * assignment
+    =, +=, -=, *=, /=, %=, **=
+  * Parallel assignment
+  * bitwise
+    &, |, ^, ~, <<, >>
+  * logical
+  * ternary
+  * range
+    .., ...
+  * defined?
+  * dot
+  * scope resolution(double colon)
  - Control instructions
+  * conditional -
+    if 
+
+      else
+        nested if
+        ternary
+
+
+    inline if
+  * assignment
+  * loop
+  * jump 
+  * iterator
+
+
+
  - Object Orientation
    - Encapsulation
    - Inheritance
    - Multiple Inheritance
    - Polymorphism
+
+   - mutator
+   - accessor
+
  - Array
  - Hash
  - File I/O
