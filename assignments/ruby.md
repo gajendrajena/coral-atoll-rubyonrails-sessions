@@ -12,7 +12,37 @@ if the sum of all the divisors except itself of a number is equal to the number
 7. WAP to print prime numbers between 1 to 100
 8. WAP to print perfect numbers between 1 to 100
 
-23rd May
+9. Employee list sorting
+
+29th May
 --------
-9. WAP to reverse a string
+
+1.WAF to reverse a string
 e.g. "Hello" -> "olleH"
+str  = "Hello"
+res  = reverse_str(str)
+res # => "olleH"
+
+2. WAF to find a char in a string
+
+str  = "Hello"
+char_to_search = 'l'
+res  = search_str(str, char_to_search)
+res # => true
+
+3. WAF to find index of a char in a string
+
+str  = "Hello"
+char_to_search = 'l'
+res  = index_str(str, char_to_search)
+res # => 2
+
+3. WAF to find all the indices of a char in a string
+
+str  = "Hello"
+char_to_search = 'l'
+res  = indices_str(str, char_to_search)
+res # => [2, 3]
+
+
+
