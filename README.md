@@ -99,16 +99,15 @@ Day 7: 28nd May 2019, Monday
    - Multiple Inheritance
    - problem statement: Employee listing(sorting of strings, array, hash)
    - TDD : Test Driven Development
- - sync up with Anubhav
 
 
 Day 8: 29nd May 2019, Monday
  - ROR sessions
    - Modules
    - Multiple Inheritance
-   - problem statement: Employee listing(sorting of strings, array, hash)
-   - TDD : Test Driven Development
- - sync up with Anubhav
+   - Exceptions
+   - File I/O
+   - assignments: string search, string reverse
 
 
 HTML
