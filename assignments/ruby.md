@@ -17,7 +17,7 @@ if the sum of all the divisors except itself of a number is equal to the number
 29th May
 --------
 
-1.WAF to reverse a string
+1. WAF to reverse a string
 e.g. "Hello" -> "olleH"
 str  = "Hello"
 res  = reverse_str(str)
@@ -37,7 +37,7 @@ char_to_search = 'l'
 res  = index_str(str, char_to_search)
 res # => 2
 
-3. WAF to find all the indices of a char in a string
+4. WAF to find all the indices of a char in a string
 
 str  = "Hello"
 char_to_search = 'l'
